@@ -12,6 +12,7 @@
     </parent>
 
     <packaging>jar</packaging>
+
     <artifactId>analyzer-utils</artifactId>
 
     <dependencies>
