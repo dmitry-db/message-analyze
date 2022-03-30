@@ -2,3 +2,7 @@ server:
   port: 8020
   servlet:
     context-path: /
+
+application:
+  rabbit:
+    enable: true
